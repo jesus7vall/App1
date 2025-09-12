@@ -23,3 +23,5 @@ voy a subir mas cambios
  Jesus bujarra 2.0
 
  dia 2 
+
+Me da miedo la clase de sergio
