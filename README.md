@@ -10,3 +10,6 @@ mnas cosas
 jejejeje
 
 jajaja
+
+
+como nos ha cancelado las palabras mal sonantes 
