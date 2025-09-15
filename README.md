@@ -1,7 +1,6 @@
 # App1
-## superguay jesus
 
-## hola
+sdfsdfsdfs
 soy dani
 
 soy jesus
@@ -25,7 +24,6 @@ a las 5:30 a casa
 
 las nuevas cosas
 
-mas ramas 
-mucho mas ramas
+Se supone que es mi rama
 
-
+ahora tenemos que crear una rama
