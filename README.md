@@ -40,24 +40,6 @@ a las 5:30 a casa
 
 las nuevas cosas
 
-Se supone que es mi rama
 
-ahora tenemos que crear una rama
-ustedes son unos pensionistas
-cambios
-de 
-rama
-de
-mi
-de
-parte
-de
-mi
-solo
-mio
-mine
-
-
-
-Me estoy rallando tela
-oihewflikbujefwjkbswfwef
+#Antonio bujarra
+#Jesus Bujarra 2.0
