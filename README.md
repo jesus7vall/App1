@@ -24,10 +24,16 @@ subo cambios de la rama de jesus
 
 como nos ha cancelado las palabras mal sonantes 
 
+sdaf
+asdfasd
+fasfd
 y ahora tres horitas limpias de sergio
 
 
-
+rewrewqre
+dsfa
+asdf
+sadfasdasdf
 a las 5:30 a casa
 
 
@@ -37,4 +43,19 @@ Se supone que es mi rama
 
 ahora tenemos que crear una rama
 ustedes son unos pensionistas
+cambios
+de 
+rama
+de
+mi
+de
+parte
+de
+mi
+solo
+mio
+mine
 
+
+
+Me estoy rallando tela
