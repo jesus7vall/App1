@@ -9,12 +9,7 @@ soy jesus
 mnas cosas
 
 
-jejejeje
-
-jajajabfd
-
-ggfjhgf
-
+subo cambios de la rama de jesus
 
 como nos ha cancelado las palabras mal sonantes 
 
