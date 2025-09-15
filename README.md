@@ -19,13 +19,8 @@ as
 dfsdaf
 afsd
 
-dsffdssdf
-jejejeje
 
-## holaalalala
-
-jajaja
-# probadno 123
+subo cambios de la rama de jesus
 
 como nos ha cancelado las palabras mal sonantes 
 
@@ -48,4 +43,19 @@ Se supone que es mi rama
 
 ahora tenemos que crear una rama
 ustedes son unos pensionistas
+cambios
+de 
+rama
+de
+mi
+de
+parte
+de
+mi
+solo
+mio
+mine
 
+
+
+Me estoy rallando tela
