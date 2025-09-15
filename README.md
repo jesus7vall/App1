@@ -4,15 +4,7 @@
 
 sdfsdfsdfs
 soy daniasdasddas
-HOLA123 
-soy jesus
-1234455666
-# hola
 
-mnas cosas
-jskhdbfkjs
-
-jejejeje
 
 ## holaalalala
 
