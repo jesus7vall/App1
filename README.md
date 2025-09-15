@@ -1,32 +1,26 @@
 # App1
 
-hola
-# Culos o tetas?
-##sentimientos
-🥱
+soy dani
+
+soy jesus
+
+mnas cosas
+
+
+jejejeje
+
+jajaja
+
+
+como nos ha cancelado las palabras mal sonantes 
+
+y ahora tres horitas limpias de sergio
 
 
 
+a las 5:30 a casa
 
 
-## Tú
-### Que mono
-🥵
+las nuevas cosas
 
 
-a
-
-
-
-voy a subir mas cambios
-
- Jesus bujarra 2.0
-
- dia 2 
-jnojjojoj
-akjdncasnas
-lajdsnlskdkamda
-sadklnasknda
-askdnaksnda
-skdnaknda
-askdnaksnd
