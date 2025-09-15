@@ -20,7 +20,7 @@ a
 
 voy a subir mas cambios
 
- Jesus bujarra 2.0
+ Jesus bujarra 2.0g
 
  dia 2 
 jnojjojoj
