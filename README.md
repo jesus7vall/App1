@@ -23,4 +23,31 @@ a las 5:30 a casa
 
 las nuevas cosas
 
-efsef
+Se supone que es mi rama
+
+ahora tenemos que crear una rama
+ustedes son unos pensionistas
+cambios
+de 
+rama
+de
+mi
+de
+parte
+de
+mi
+solo
+mio
+mine
+
+
+
+Me estoy rallando tela
+
+
+hola como estasis ?? en dos semanas vacaciones!!!
+
+
+
+
+
