@@ -10,3 +10,8 @@ mi
 solo
 mio
 mine
+sadasd
+asdasd
+asdasd
+pull
+request
