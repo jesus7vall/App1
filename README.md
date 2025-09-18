@@ -47,7 +47,7 @@ Me estoy rallando tela
 
 hola como estasis ?? en dos semanas vacaciones!!!
 
-Este es el cambio de pull request de Dani
+Este es el cambio de pull request de Dani.
 
 
 
