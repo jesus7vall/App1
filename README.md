@@ -1,40 +1,23 @@
 # App1
 
-# hola
-gdffdg
-sdfsdfsdfs
-soy daniasdasddas
-HOLA123 
+soy dani
+
 soy jesus
-1234455666
-# hola
-toawsdin
-asdasdad
-a
-fgsdfgddfsfdg
+
 mnas cosas
-jskhdbfkjs
-sdaf
-as
-sfdfsdf
-dfsdaf
-afsd
 
 
-subo cambios de la rama de jesus
+jejejeje
+
+jajaja
+
 
 como nos ha cancelado las palabras mal sonantes 
 
-sdaf
-asdfasd
-fasfd
 y ahora tres horitas limpias de sergio
 
 
-rewrewqre
-dsfa
-asdf
-sadfasdasdf
+
 a las 5:30 a casa
 
 
@@ -63,6 +46,8 @@ Me estoy rallando tela
 
 
 hola como estasis ?? en dos semanas vacaciones!!!
+
+Este es el cambio de pull request de Dani
 
 
 
