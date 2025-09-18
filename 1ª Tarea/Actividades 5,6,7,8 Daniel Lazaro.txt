@@ -1,0 +1,47 @@
+ 5
+¿Cuáles son los valores finales de todas las variables a, b, c y d después del código
+a continuación?
+1 let a = 1, b = 1;
+2 let c = ++a; // 2
+3 let d = b++; // 1
+
+6
+¿Cuáles son los valores de ‘a’ y ‘x’ después del código a continuación?
+1 let a = 2;
+2 let x = 1 + (a *= 2);
+// Los valores finales del codigo son "a =4" ya que en los parentesis realmente se hace la operacion de "a=a*2"y "x=5" ya que x es "x+a".
+
+7
+Conversiones de tipos
+¿Cuáles son los resultados de estas expresiones?
+1 "" + 1 + 0 //Respuesta:10
+2 "" - 1 + 0 //Respuesta:-1
+3 true + false //Respuesta:1
+4 6 / "3" //Respuesta:2
+5 "2" * "3" //Respuesta:6
+6 4 + 5 + "px" //Respuesta:9px
+7 "$" + 4 + 5 //Respuesta:$45
+8 "4" - 2 //Respuesta:2
+9 "4px" - 2 //Respuesta:NaN
+10 " -9 " + 5 //Respuesta:-95
+11 " -9 " - 5 //Respuesta:-14
+12 null + 1 //Respuesta:1
+13 undefined + 1 //Respuesta:NaN
+14 " \t \n" - 2 //Respuesta:-2
+Piensa bien, anótalos y luego compara con la respuesta
+
+8
+Corregir la adición
+Aquí hay un código que le pide al usuario dos números y muestra su suma.
+Funciona incorrectamente. El resultado en el ejemplo a continuación es 12 (para
+valores de captura predeterminados).
+¿Por qué? Arréglalo. El resultado debería ser 3.
+1 let a = prompt("¿Primer número?", 1);//
+2 let b = prompt("¿Segundo número?", 2);//
+3 alert(a + b); // 12//
+
+Como solucion habría que poner (Number) delante de (Prompt) tal que quede de esta manera:
+
+1 let a = Number(prompt("¿Primer número?", 1);//
+2 let b = Number(prompt("¿Segundo número?", 2);//
+3 alert(a + b); // 3//
